@@ -1,6 +1,5 @@
-- 👋 Hi, I’m FALIQ
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning JAVASCRIPT & PYTHON
+-  Hi, I’m FALIQ
+-  I'm an aspiring network engineer
 - 📫 You can reach me on https://www.linkedin.com/in/faliqfizi
 
 <!---
